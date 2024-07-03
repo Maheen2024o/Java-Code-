@@ -47,6 +47,9 @@ The JVM manages several runtime data areas, including:
 - **Java Stacks**: Holds local variables and partial results, and plays a part in method invocation and return.
 - **PC Registers**: Each thread has its own PC register to hold the address of the currently executing instruction.
 - **Native Method Stacks**: Used for native methods written in languages like C or C++.
+- **Execution Engine**:It is a type of software used to test hardware, software, or complete systems. The test execution engine never carries any information about the tested product.
+- **Native Method interface**:The Native Method Interface is a programming framework. It allows Java code which is running in a JVM to call by libraries and native applications.
+- **Native Method Libraries**:Native Libraries is a collection of the Native Libraries(C, C++) which are needed by the Execution Engine.
 
 ![Screenshot 2024-07-03 141300](https://github.com/Maheen2024o/Java-Code-/assets/173685093/d06c2871-3d0f-4414-afcd-412973b5a83a)
 
