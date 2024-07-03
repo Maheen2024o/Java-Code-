@@ -34,5 +34,19 @@ The JVM performs automatic garbage collection, which means it automatically iden
 
 ## 4. Execution Engine
 The execution engine is the core component of the JVM that executes the bytecode. It involves:
+- **Interpreter**: It interprets bytecode instructions one by one.
+- **JIT Compiler**: Converts bytecode to native machine code at runtime for performance optimization.
+- **Garbage Collector**: Manages memory automatically by reclaiming memory used by unreachable objects.
 
+## 5. Runtime Data Areas
+
+The JVM manages several runtime data areas, including:
+
+- **Method Area**: Stores class structures, including metadata, constant runtime pool, and the code for methods.
+- **Heap**: Used for dynamic memory allocation for Java objects.
+- **Java Stacks**: Holds local variables and partial results, and plays a part in method invocation and return.
+- **PC Registers**: Each thread has its own PC register to hold the address of the currently executing instruction.
+- **Native Method Stacks**: Used for native methods written in languages like C or C++.
+
+![Screenshot 2024-07-03 141300](https://github.com/Maheen2024o/Java-Code-/assets/173685093/d06c2871-3d0f-4414-afcd-412973b5a83a)
 
