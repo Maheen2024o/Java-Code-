@@ -1,0 +1,113 @@
+[
+    {
+        "title": "The Great Adventure",
+        "author": "John Smith",
+        "metadata": {
+            "price": 1999,
+            "categories": ["adventure", "fantasy"],
+            "isbn": "9781234567890",
+            "pages": 350
+        }
+    },
+    {
+        "title": "Mystery of the Old House",
+        "author": "Jane Doe",
+        "metadata": {
+            "price": 1299,
+            "categories": ["mystery", "thriller"],
+            "isbn": "9780987654321",
+            "pages": 290
+        }
+    },
+    {
+        "title": "Science Wonders",
+        "author": "Albert Einstein",
+        "metadata": {
+            "price": 2499,
+            "categories": ["science", "non-fiction"],
+            "isbn": "9781122334455",
+            "pages": 400
+        }
+    },
+    {
+        "title": "Romantic Escapades",
+        "author": "Emma Brown",
+        "metadata": {
+            "price": 1599,
+            "categories": ["romance", "drama"],
+            "isbn": "9786677889900",
+            "pages": 310
+        }
+    },
+    {
+        "title": "The Digital World",
+        "author": "Alan Turing",
+        "metadata": {
+            "price": 2999,
+            "categories": ["technology", "non-fiction"],
+            "isbn": "9782233445566",
+            "pages": 450
+        }
+    },
+    {
+        "title": "Fantasy Realm",
+        "author": "J.K. Rowling",
+        "metadata": {
+            "price": 2799,
+            "categories": ["fantasy", "fiction"],
+            "isbn": "9783344556677",
+            "pages": 500
+        }
+    },
+    {
+        "title": "Historical Legends",
+        "author": "William Shakespeare",
+        "metadata": {
+            "price": 1899,
+            "categories": ["history", "drama"],
+            "isbn": "9784455667788",
+            "pages": 370
+        }
+    },
+    {
+        "title": "Space Odyssey",
+        "author": "Arthur C. Clarke",
+        "metadata": {
+            "price": 2599,
+            "categories": ["sci-fi", "adventure"],
+            "isbn": "9785566778899",
+            "pages": 420
+        }
+    },
+    {
+        "title": "Detective Stories",
+        "author": "Agatha Christie",
+        "metadata": {
+            "price": 1699,
+            "categories": ["mystery", "crime"],
+            "isbn": "9786677889901",
+            "pages": 320
+        }
+    },
+    {
+        "title": "Cooking with Love",
+        "author": "Julia Child",
+        "metadata": {
+            "price": 2099,
+            "categories": ["cooking", "non-fiction"],
+            "isbn": "9787788990011",
+            "pages": 250
+        }
+    },
+    {
+        "title": "The Future of AI",
+        "author": "Ray Kurzweil",
+        "metadata": {
+            "price": 2699,
+            "categories": ["technology", "future"],
+            "isbn": "9788899001122",
+            "pages": 380
+        }
+	}
+		
+]

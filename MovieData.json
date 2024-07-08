@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Adventure Quest",
+        "director": "John Smith",
+        "metadata": {
+            "price": 1500,
+            "categories": ["adventure", "fantasy"],
+            "isbn": "20000000000100",
+            "duration": 120
+        }
+    },
+    {
+        "title": "The Old House Mystery",
+        "director": "Jane Doe",
+        "metadata": {
+            "price": 1400,
+            "categories": ["mystery", "thriller"],
+            "isbn": "20000000000002",
+            "duration": 110
+        }
+    },
+    {
+        "title": "Wonders of Science",
+        "director": "Albert Einstein",
+        "metadata": {
+            "price": 2000,
+            "categories": ["science", "non-fiction"],
+            "isbn": "20000056000002",
+            "duration": 150
+        }
+    },
+    {
+        "title": "Romantic Journeys",
+        "director": "Emma Brown",
+        "metadata": {
+            "price": 1300,
+            "categories": ["romance", "drama"],
+            "isbn": "204440000000002",
+            "duration": 90
+        }
+    }
+]
